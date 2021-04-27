@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mykie
-- 👀 I’m interested in using Python for Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open Source Python projects 
+- 👀 I’m interested in using Java for Software Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Open Source Java projects 
 - 📫 How to reach me rollback1001@gmail.com
 
 <!---
